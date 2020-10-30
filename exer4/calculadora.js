@@ -1,11 +1,6 @@
 
 /*Crie uma função que seja uma calculadora.*/
 
-/* soma
-  subtração
-  multiplicação
-  divisão
-  retorna 0 */
 
 const SOMA = 'somar';
 const SUB = 'subtrair';
